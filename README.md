@@ -22,5 +22,5 @@ Whether one prefers to read instructions or watch the videos we recorded on this
 
 ## Getting Started:
 
-While this project starts from very simple code to gradually more complex, no additional software or server setup is required; just some basic understanding of JavaScript.  Download this project and start the emulators directly in your browser by clicking the local file **index.html**.  Alternatively, check out [etroapplejs.github.io/EmulatorBasics/](https://retroapplejs.github.io/EmulatorBasics/) to run this project directly on GitHub.
+While this project starts from very simple code to gradually more complex, no additional software or server setup is required; just some basic understanding of JavaScript.  Download this project and start the emulators directly in your browser by clicking the local file **index.html**.  Alternatively, check out [Retroapplejs.github.io/EmulatorBasics/](https://retroapplejs.github.io/EmulatorBasics/) to run this project directly on GitHub.
 All the JavaScript components can be found in the /res folder and can be opened using your favorite development environment (IDE) featuring basic JavaScript syntax highlighting.
